@@ -12,12 +12,12 @@ int main()
 	else
 	{
 		if ((X > 0) && (Y > 0))
-			printf("I quater");
+			printf("I quarter");
 		else if ((X < 0) && (Y > 0))
-			printf("II quater");
+			printf("II quarter");
 		else if ((X < 0) && (Y < 0))
-			printf("III quater");
+			printf("III quarter");
 		else if ((X > 0) && (Y < 0))
-			printf("IV quater");
+			printf("IV quarter");
 	}
 }
